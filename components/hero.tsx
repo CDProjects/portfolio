@@ -1,9 +1,14 @@
 import React from 'react'
 
-const hero = () => {
+const Hero = () => {
   return (
-    <div>hero</div>
+    <div className="pb-20 pt-36">
+      <div>
+
+        
+      </div>
+    </div>
   )
 }
 
-export default hero
+export default Hero
